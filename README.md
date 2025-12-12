@@ -353,25 +353,6 @@ In the bustling corridors of IIIT Lucknow, amidst the chaos of code and classes,
 
 ---
 
-<div align="center">
-
-### 🎯 Coding Stats
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/SPIDEY_B0Y?theme=dark&font=Sora&ext=heatmap)
-
-</div>
-
----
-
-<div align="center">
-
-### 🔥 The Streak Never Stops!
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AAYUSH-SPIDEY-SHARMA&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=FF0000&fire=FF0000&currStreakLabel=FF0000" />
-
-</div>
-
----
 
 <div align="center">
 
