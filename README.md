@@ -25,52 +25,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-4a8e-b9d5-204def0b7192.gif" width="200">
 <img src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-4a8e-b9d5-204def0b7192.gif" width="200">
 
-**When I'm not coding, catch me doing this:**
 
-<table>
-<tr>
-<td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="150">
-<br><b>🎮 Gaming</b>
-</td>
-<td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="150">
-<br><b>🎨 Creating Art</b>
-</td>
-<td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="150">
-<br><b>📚 Learning Tech</b>
-</td>
-<td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="150">
-<br><b>🎵 Music Vibes</b>
-</td>
-</tr>
-<tr>
-<td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="150">
-<br><b>☕ Coffee Breaks</b>
-</td>
-<td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" width="150">
-<br><b>🌙 Dreaming Big</b>
-</td>
-<td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="150">
-<br><b>🎯 Innovating</b>
-</td>
-<td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" width="150">
-<br><b>🚀 Building</b>
-</td>
-</tr>
-</table>
-
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" width="600">
-</div>
 
 ---
 
