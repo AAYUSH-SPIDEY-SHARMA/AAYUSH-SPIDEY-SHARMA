@@ -16,8 +16,7 @@
 <tr>
 <td width="62%" valign="top">
 
-### 👨‍💻 Aayush Sharma
-<b>aka SPIDEY</b> 🕷️
+### 👨‍💻 Aayush Sharma aka SPIDEY 🕷️
 
 <table width="100%">
 <tr>
@@ -26,7 +25,7 @@
 </tr>
 <tr>
   <td align="center">🏀</td>
-  <td><b>National Bronze Medallist</b><br/><sub>Basketball — SGFI Nationals</sub></td>
+  <td><b>National Bronze Medallist (SGFI)</b><br/><sub>Dont know how to play basketball</sub></td>
 </tr>
 <tr>
   <td align="center">🎮</td>
@@ -34,7 +33,7 @@
 </tr>
 <tr>
   <td align="center">🌸</td>
-  <td><b>Anime</b><br/><sub>The permanent background process</sub></td>
+  <td><b>Anime</b><br/><sub>Anime is Water , water is Good , Anime is Good</sub></td>
 </tr>
 <tr>
   <td align="center">🕸️</td>
@@ -91,22 +90,26 @@
 <td width="50%" valign="top">
 
 ### 🎯 AimPeak
+
 An AI-powered test platform built for JEE and NEET aspirants — practice, mock exams, and performance analytics in one place.
 
 `TypeScript` `AI` `Web`
 
 <!-- Paste the deployed link here: [**Live →**](https://your-link) -->
+
 <sub>🔗 live link coming soon</sub>
 
 </td>
 <td width="50%" valign="top">
 
 ### 🟥 DOTCODE
+
 Currently in development.
 
 `TypeScript`
 
 <!-- Paste the deployed link here: [**Live →**](https://your-link) -->
+
 <sub>🔗 live link coming soon</sub>
 
 </td>
@@ -115,6 +118,7 @@ Currently in development.
 <td width="50%" valign="top">
 
 ### 🌌 Aether
+
 The official website for **Aether** — the Data Science and AI/ML club of IIIT Lucknow.
 
 `React` `TypeScript` `Node`
@@ -125,6 +129,7 @@ The official website for **Aether** — the Data Science and AI/ML club of IIIT 
 <td width="50%" valign="top">
 
 ### 🧩 HRMS
+
 A human resource management system — employee records, attendance, and admin workflows in a single dashboard.
 
 `JavaScript` `Node` `Dashboard`
@@ -137,6 +142,7 @@ A human resource management system — employee records, attendance, and admin w
 <td width="50%" valign="top">
 
 ### 🕸️ Portfolio
+
 My corner of the internet — work, writing, and everything else worth showing.
 
 `JavaScript` `Web`
@@ -147,6 +153,7 @@ My corner of the internet — work, writing, and everything else worth showing.
 <td width="50%" valign="top">
 
 ### ⚡ More
+
 Plenty more in the repos — experiments, hackathon builds, and open source contributions.
 
 [**Browse all →**](https://github.com/AAYUSH-SPIDEY-SHARMA?tab=repositories)
@@ -172,10 +179,6 @@ Every October the web gets a little wider.
 ## Contribution Signal
 
 <div align="center">
-
-<img width="60%" src="https://streak-stats.demolab.com?user=AAYUSH-SPIDEY-SHARMA&hide_border=true&background=0D1117&ring=E5202B&fire=E5202B&currStreakLabel=E5202B&currStreakNum=C9D1D9&sideNums=C9D1D9&sideLabels=C9D1D9&dates=8B949E&stroke=21262D&border_radius=6" />
-
-<br/><br/>
 
 <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=AAYUSH-SPIDEY-SHARMA&hide_border=true&bg_color=0D1117&color=E5202B&line=E5202B&point=FFFFFF&area=true&area_color=E5202B" />
 
@@ -213,7 +216,10 @@ Every October the web gets a little wider.
 
 <img src="assets/divider.png" width="100%" />
 
-## 💝 An Unforgettable Moment @ IIIT Lucknow
+<details>
+<summary><b>💝 An Unforgettable Moment @ IIIT Lucknow</b> — click to open</summary>
+
+<br/>
 
 <table>
 <tr>
@@ -249,6 +255,8 @@ hope     = True
 while hope:
     remember()
 ```
+
+</details>
 
 <img src="assets/divider.png" width="100%" />
 
@@ -289,17 +297,16 @@ Open to collaborations, hackathon teams, and open source work.
 <a href="https://aayushsharma.me">
   <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=googlechrome&logoColor=E5202B" />
 </a>
-<!-- Replace YOUR_HANDLE / YOUR_EMAIL / YOUR_ID below with your real handles, then delete this comment -->
-<a href="https://linkedin.com/in/YOUR_HANDLE">
+<a href="https://www.linkedin.com/in/aayush-sharma-661179330/">
   <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=E5202B" />
 </a>
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:sharmaaayush598@gmail.com">
   <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=E5202B" />
 </a>
-<a href="https://x.com/YOUR_HANDLE">
+<a href="https://x.com/Aaayushhh">
   <img src="https://img.shields.io/badge/X-0D1117?style=for-the-badge&logo=x&logoColor=E5202B" />
 </a>
-<a href="https://discord.com/users/YOUR_ID">
+<a href="https://discord.com/users/theaayushsharma11">
   <img src="https://img.shields.io/badge/Discord-0D1117?style=for-the-badge&logo=discord&logoColor=E5202B" />
 </a>
 

@@ -30,13 +30,9 @@ Everything lives in the profile repo `AAYUSH-SPIDEY-SHARMA/AAYUSH-SPIDEY-SHARMA`
 |---|---|---|
 | Projects → AimPeak | `live link coming soon` | the deployed URL |
 | Projects → DOTCODE | `live link coming soon` | the deployed URL (and a real description) |
-| Get in Touch | `YOUR_HANDLE` | LinkedIn handle |
-| Get in Touch | `YOUR_EMAIL` | contact email |
-| Get in Touch | `YOUR_HANDLE` (x.com) | X handle |
-| Get in Touch | `YOUR_ID` | Discord user id |
 
-Each has an HTML comment next to it showing the exact replacement. Delete any
-social badge you don't use — an empty link looks worse than no link.
+Each has an HTML comment next to it showing the exact replacement.
+The Get in Touch row is fully filled in.
 
 To swap the Unforgettable Moment image, just overwrite `assets/moment.png`.
 No README edit needed.
@@ -85,3 +81,13 @@ The Projects section is now hand-written HTML with no external dependency.
 
 If you ever want those cards back, deploy your own instance of
 github-readme-stats to Vercel and point the URLs at it rather than the shared one.
+
+`streak-stats.demolab.com` was dropped for the same reason. The URL itself
+answered 200 to a direct request, but GitHub's image proxy (camo) has a short
+fetch timeout and the shared demolab instance is slow enough to blow through it,
+so the card kept rendering as a broken-image icon on the live profile. Same fix
+if you want it back: self-host it.
+
+Contribution Signal now holds only the activity graph and the snake — the snake
+is served from this repo's own `output` branch, so it can't be taken down by
+someone else's rate limit.
