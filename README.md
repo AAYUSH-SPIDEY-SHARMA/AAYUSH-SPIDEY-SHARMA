@@ -260,34 +260,6 @@ while hope:
 
 <img src="assets/divider.png" width="100%" />
 
-## ☕ The Commitment
-
-<div align="center">
-
-<img width="92%" src="https://raw.githubusercontent.com/AAYUSH-SPIDEY-SHARMA/AAYUSH-SPIDEY-SHARMA/output/streak.svg" alt="Days without tea or coffee" />
-
-</div>
-
-<table>
-<tr>
-<td width="72%" valign="top">
-
-On **24 September 2025** I put the cup down — no tea, no coffee, not once since.
-
-It was never about caffeine. It was a promise I made to myself: the next cup gets poured the day I get what I am working for. Until then the counter keeps climbing, and that is the whole point.
-
-<sub>The number above updates itself every day.</sub>
-
-</td>
-<td width="28%" align="center" valign="middle">
-  <img src="assets/straw-hat.png" width="120" /><br/>
-  <sub><i>still sailing</i></sub>
-</td>
-</tr>
-</table>
-
-<img src="assets/divider.png" width="100%" />
-
 ## Get in Touch
 
 <div align="center">

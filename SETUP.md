@@ -16,12 +16,10 @@ Everything lives in the profile repo `AAYUSH-SPIDEY-SHARMA/AAYUSH-SPIDEY-SHARMA`
 │   ├── card-01.png       # THE GAMER
 │   ├── card-02.png       # THE AI ENGINEER
 │   ├── card-03.png       # THE BALLER
-│   └── straw-hat.png
+│   └── straw-hat.png     # currently unused
 └── .github/
-    ├── scripts/
-    │   └── streak_svg.py # renders the caffeine-free counter
     └── workflows/
-        └── snake.yml     # builds snake.svg + streak.svg daily
+        └── snake.yml     # builds snake.svg daily
 ```
 
 ## Things still to fill in
@@ -40,21 +38,21 @@ No README edit needed.
 ## The daily workflow
 
 `.github/workflows/snake.yml` runs at 00:00 UTC (and on every push to `main`).
-It does two things in one job:
-
-1. `Platane/snk` renders the contribution snake to `dist/snake.svg`
-2. `.github/scripts/streak_svg.py` renders the tea/coffee day counter to
-   `dist/streak.svg`, counting from `QUIT_DATE` in that script
-
-Both files are then published to the `output` branch, and the README embeds them
-from `raw.githubusercontent.com/.../output/`.
+`Platane/snk` renders the contribution snake to `dist/snake.svg`, which is then
+published to the `output` branch. The README embeds it from
+`raw.githubusercontent.com/.../output/snake.svg`.
 
 **Why one job:** the publish step replaces the whole `output` branch, so a second
-workflow writing there would delete the other file. Anything new that needs
-publishing must be generated into `dist/` in this same job.
+workflow writing there would delete whatever the first one put there. Anything
+new that needs publishing must be generated into `dist/` in this same job,
+before the publish step.
 
 **Why checkout runs first:** `actions/checkout` cleans the workspace, so running
 it after the generators would wipe `dist/`.
+
+**If you add a generator that runs as `runner`** (a `run:` step rather than an
+action), `chown` `dist/` first — `Platane/snk` runs in Docker as root and leaves
+the directory root-owned, so a plain write into it fails with EACCES.
 
 One-time repo settings, if the workflow ever fails to push:
 Settings → Actions → General → Workflow permissions → *Read and write permissions*.
