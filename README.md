@@ -36,6 +36,10 @@
   <td align="center">🌸</td>
   <td><b>Anime</b><br/><sub>The permanent background process</sub></td>
 </tr>
+<tr>
+  <td align="center">🕸️</td>
+  <td><b>Currently</b><br/><sub>Building AimPeak — and whatever comes next</sub></td>
+</tr>
 </table>
 
 > Two things I never miss: a deadline, and a free throw.
