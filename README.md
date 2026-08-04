@@ -4,48 +4,35 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=E5202B&center=true&vCenter=true&width=720&height=50&lines=AI+%26+ML+Engineer;Computer+Vision+%7C+LLM+Systems;Full+Stack+Developer;With+great+code+comes+great+responsibility)](https://github.com/AAYUSH-SPIDEY-SHARMA)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2600&pause=900&color=E5202B&center=true&vCenter=true&width=720&height=52&lines=Gamer;AI+Engineer;Basketball+Player)](https://github.com/AAYUSH-SPIDEY-SHARMA)
+
+</div>
+
+<img src="assets/divider.png" width="100%" />
+
+## Quick Intro
+
+<table>
+<tr>
+<td width="62%" valign="top">
+
+**👨‍💻 Aayush Sharma** — aka **SPIDEY** 🕷️
+
+**🎓 AI & ML Student** @ IIIT Lucknow
+
+**🏀 National Bronze Medallist** — Basketball (SGFI)
+
+**🎮 Veteran gamer** · 🌸 anime-obsessed · ⚡ still on the court and in the terminal
 
 <br/>
 
-![Location](https://img.shields.io/badge/Based_in-India-0D1117?style=flat-square&labelColor=E5202B)
-![Focus](https://img.shields.io/badge/Focus-Computer_Vision-0D1117?style=flat-square&labelColor=E5202B)
-![Open to](https://img.shields.io/badge/Open_to-Collaboration-0D1117?style=flat-square&labelColor=E5202B)
-[![Followers](https://img.shields.io/github/followers/AAYUSH-SPIDEY-SHARMA?style=flat-square&label=Followers&color=0D1117&labelColor=E5202B)](https://github.com/AAYUSH-SPIDEY-SHARMA?tab=followers)
-![Visitors](https://komarev.com/ghpvc/?username=AAYUSH-SPIDEY-SHARMA&style=flat-square&color=E5202B&label=Visitors)
-
-</div>
-
-<img src="assets/divider.png" width="100%" />
-
-## Behind the Mask
-
-<table>
-<tr>
-<td width="65%" valign="top">
-
-I build systems that see, reason, and ship — mostly at the intersection of **computer vision**, **LLM engineering**, and the backend plumbing that holds both together. IIIT Lucknow shaped the fundamentals; hackathons, open source, and a stubborn refusal to leave a repo half-finished did the rest.
-
-```yaml
-name:      Aayush Sharma
-alias:     SPIDEY
-role:      AI/ML Engineer
-school:    IIIT Lucknow
-building:  vision pipelines, agentic systems, tools students actually use
-learning:  medical imaging, model deployment at scale
-ask_me_about: [computer-vision, LLMs, system-design, game-dev]
-```
-
-**Currently**
-- Shipping computer vision work end to end — data, model, evaluation, deployment
-- Contributing to open source and collecting Hacktoberfest scars
-- Turning hackathon prototypes into things people can actually run
+> Two things I never miss: a deadline, and a free throw.
 
 </td>
-<td width="35%" valign="top">
+<td width="38%" valign="top">
 
 <div align="center">
-  <img src="assets/avatar.png" width="82%" alt="SPIDEY" />
+  <img src="assets/avatar.png" width="80%" alt="SPIDEY" />
 </div>
 
 </td>
@@ -54,73 +41,103 @@ ask_me_about: [computer-vision, LLMs, system-design, game-dev]
 
 <img src="assets/divider.png" width="100%" />
 
-## Arsenal
+## Tech Stack
 
 <div align="center">
 
-**Languages**
-
-[![Languages](https://skillicons.dev/icons?i=py,cpp,ts,js,java,cs&theme=dark)](https://skillicons.dev)
-
-**AI / ML**
-
-[![AI](https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn,anaconda&theme=dark)](https://skillicons.dev)
-
-**Web & Backend**
-
-[![Web](https://skillicons.dev/icons?i=react,nextjs,nodejs,fastapi,tailwind,prisma&theme=dark)](https://skillicons.dev)
-
-**Data & Infra**
-
-[![Infra](https://skillicons.dev/icons?i=postgres,mongodb,redis,docker,aws,linux&theme=dark)](https://skillicons.dev)
-
-**Tools & Creative**
-
-[![Tools](https://skillicons.dev/icons?i=git,github,vscode,figma,blender,unity&theme=dark)](https://skillicons.dev)
+<table>
+<tr>
+  <td align="right"><b>&nbsp;Languages&nbsp;</b></td>
+  <td><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=py,cpp,ts,js,java&theme=dark" /></a></td>
+</tr>
+<tr>
+  <td align="right"><b>&nbsp;AI&nbsp;/&nbsp;ML&nbsp;</b></td>
+  <td><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn&theme=dark" /></a></td>
+</tr>
+<tr>
+  <td align="right"><b>&nbsp;Web&nbsp;&amp;&nbsp;Backend&nbsp;</b></td>
+  <td><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,fastapi,tailwind&theme=dark" /></a></td>
+</tr>
+<tr>
+  <td align="right"><b>&nbsp;Data&nbsp;&amp;&nbsp;Infra&nbsp;</b></td>
+  <td><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres,mongodb,docker,aws,linux,git&theme=dark" /></a></td>
+</tr>
+</table>
 
 </div>
 
 <img src="assets/divider.png" width="100%" />
 
-## Featured Work
-
-<div align="center">
-
-<a href="https://github.com/AAYUSH-SPIDEY-SHARMA/PRAHARI">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=AAYUSH-SPIDEY-SHARMA&repo=PRAHARI&bg_color=0D1117&title_color=E5202B&icon_color=E5202B&text_color=C9D1D9&border_color=21262D" />
-</a>
-<a href="https://github.com/AAYUSH-SPIDEY-SHARMA?tab=repositories">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=AAYUSH-SPIDEY-SHARMA&repo=REPO_NAME_2&bg_color=0D1117&title_color=E5202B&icon_color=E5202B&text_color=C9D1D9&border_color=21262D" />
-</a>
-
-</div>
+## Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### PRAHARI
-Traffic intelligence and decision support for city police — congestion forecasting with gradient-boosted models, route optimisation with OR-Tools, and a role-based console for commissioners, control room, and field officers.
+### 🎯 AimPeak
+An AI-powered test platform built for JEE and NEET aspirants — practice, mock exams, and performance analytics in one place.
 
-`CatBoost` `OR-Tools` `FastAPI` `React` `OSMnx`
+`TypeScript` `AI` `Web`
+
+<!-- Paste the deployed link here: [**Live →**](https://your-link) -->
+<sub>🔗 live link coming soon</sub>
 
 </td>
 <td width="50%" valign="top">
 
-### Next Project
-One line on what it does and who it is for. Follow it with the honest technical detail — the constraint you hit, the thing you optimised, the number that moved.
+### 🟥 DOTCODE
+Currently in development.
 
-`Tech` `Stack` `Here`
+`TypeScript`
+
+<!-- Paste the deployed link here: [**Live →**](https://your-link) -->
+<sub>🔗 live link coming soon</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🌌 Aether
+The official website for **Aether** — the Data Science and AI/ML club of IIIT Lucknow.
+
+`React` `TypeScript` `Node`
+
+[**Live →**](https://aether-frontend-inky.vercel.app)
+
+</td>
+<td width="50%" valign="top">
+
+### 🧩 HRMS
+A human resource management system — employee records, attendance, and admin workflows in a single dashboard.
+
+`JavaScript` `Node` `Dashboard`
+
+[**Live →**](https://hrms-beryl-delta.vercel.app)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🕸️ Portfolio
+My corner of the internet — work, writing, and everything else worth showing.
+
+`JavaScript` `Web`
+
+[**Live →**](https://aayushsharma.me)
+
+</td>
+<td width="50%" valign="top">
+
+### ⚡ More
+Plenty more in the repos — experiments, hackathon builds, and open source contributions.
+
+[**Browse all →**](https://github.com/AAYUSH-SPIDEY-SHARMA?tab=repositories)
 
 </td>
 </tr>
 </table>
-
-<div align="center">
-  <a href="https://github.com/AAYUSH-SPIDEY-SHARMA?tab=repositories">
-    <img src="https://img.shields.io/badge/Browse_all_repositories-0D1117?style=for-the-badge&labelColor=E5202B&logo=github&logoColor=white" />
-  </a>
-</div>
 
 <img src="assets/divider.png" width="100%" />
 
@@ -128,13 +145,9 @@ One line on what it does and who it is for. Follow it with the honest technical 
 
 <div align="center">
 
-Every October the web gets a little wider. Badges below are earned through Hacktoberfest and other open source programs.
+Every October the web gets a little wider.
 
 [![Holopin badges](https://holopin.me/aayushspideysharma)](https://holopin.io/@aayushspideysharma)
-
-![Hacktoberfest](https://img.shields.io/badge/Hacktoberfest-Participant-0D1117?style=flat-square&labelColor=E5202B)
-![PRs](https://img.shields.io/badge/Pull_Requests-Welcome-0D1117?style=flat-square&labelColor=E5202B)
-![Issues](https://img.shields.io/badge/Good_First_Issues-Mentored-0D1117?style=flat-square&labelColor=E5202B)
 
 </div>
 
@@ -144,13 +157,11 @@ Every October the web gets a little wider. Badges below are earned through Hackt
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AAYUSH-SPIDEY-SHARMA&show_icons=true&hide_border=true&bg_color=0D1117&title_color=E5202B&icon_color=E5202B&text_color=C9D1D9" />
-<img width="49%" src="https://streak-stats.demolab.com?user=AAYUSH-SPIDEY-SHARMA&hide_border=true&background=0D1117&ring=E5202B&fire=E5202B&currStreakLabel=E5202B&sideNums=C9D1D9&sideLabels=C9D1D9&dates=8B949E&stroke=21262D" />
+<img width="60%" src="https://streak-stats.demolab.com?user=AAYUSH-SPIDEY-SHARMA&hide_border=true&background=0D1117&ring=E5202B&fire=E5202B&currStreakLabel=E5202B&sideNums=C9D1D9&sideLabels=C9D1D9&dates=8B949E&stroke=21262D" />
+
+<br/><br/>
 
 <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=AAYUSH-SPIDEY-SHARMA&hide_border=true&bg_color=0D1117&color=E5202B&line=E5202B&point=FFFFFF&area=true&area_color=E5202B" />
-
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AAYUSH-SPIDEY-SHARMA&layout=compact&hide_border=true&bg_color=0D1117&title_color=E5202B&text_color=C9D1D9" />
-<img width="42%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AAYUSH-SPIDEY-SHARMA&theme=github_dark&utcOffset=5.5" />
 
 <br/><br/>
 
@@ -160,25 +171,25 @@ Every October the web gets a little wider. Badges below are earned through Hackt
 
 <img src="assets/divider.png" width="100%" />
 
-## The Three Suits
+## Alter Egos
 
 <div align="center">
 <table>
 <tr>
 <td align="center" width="33%">
   <img src="assets/card-01.png" height="230" /><br/>
-  <b>THE BUILDER</b><br/>
-  <sub>Ships the thing. Sleeps after.</sub>
+  <b>THE GAMER</b><br/>
+  <sub>Reflexes built over a decade of lobbies.</sub>
 </td>
 <td align="center" width="33%">
   <img src="assets/card-02.png" height="230" /><br/>
-  <b>THE RESEARCHER</b><br/>
-  <sub>Reads the paper. Then reads the code.</sub>
+  <b>THE AI ENGINEER</b><br/>
+  <sub>Turns data into something that decides.</sub>
 </td>
 <td align="center" width="33%">
   <img src="assets/card-03.png" height="230" /><br/>
-  <b>THE COMPETITOR</b><br/>
-  <sub>36 hours. One repo. No regrets.</sub>
+  <b>THE BALLER</b><br/>
+  <sub>National bronze. Still hungry for the next one.</sub>
 </td>
 </tr>
 </table>
@@ -186,63 +197,66 @@ Every October the web gets a little wider. Badges below are earned through Hackt
 
 <img src="assets/divider.png" width="100%" />
 
-<details>
-<summary><b>An unforgettable moment @ IIIT Lucknow</b> — a small, non-technical detour</summary>
-
-<br/>
+## 💝 An Unforgettable Moment @ IIIT Lucknow
 
 <table>
 <tr>
-<td width="60%" valign="top">
+<td width="58%" valign="top">
 
-Somewhere between a compiler error and a 3 a.m. deadline, the campus went quiet for a second. I looked up, and for once the world was not a problem to be solved.
+### 💫 The Story
 
-Some things do not compile. They just stay resident in memory, taking up space you never think to free.
+In the bustling corridors of IIIT Lucknow, amidst the chaos of code and classes, there exists a moment frozen in time. A moment where I saw her from across the campus, and the world seemed to pause. It wasn't just about coding the future anymore; it was about the beautiful journey of life itself.
 
-> Not every variable gets defined, and not every feeling gets a type signature. Some are just cached forever.
+Sometimes the most beautiful algorithms are the ones written by the heart. ❤️
+
+> "Not all variables in life can be defined, and not all feelings can be compiled. Some are meant to be cherished in the memory stack forever." 💭
 
 </td>
-<td width="40%" valign="top">
+<td width="42%" valign="top">
+
+<div align="center">
+  <img src="assets/moment.png" width="94%" alt="a moment" />
+</div>
+
+</td>
+</tr>
+</table>
+
+### 💌 Love Variables
 
 ```python
 feelings = "undefined"
 courage  = 0
-memories = float("inf")
+memories = float('inf')
 hope     = True
 
 while hope:
     remember()
 ```
 
-</td>
-</tr>
-</table>
-
-</details>
-
 <img src="assets/divider.png" width="100%" />
 
-## Off the Clock
+## ☕ The Commitment
+
+<div align="center">
+
+<img width="92%" src="https://raw.githubusercontent.com/AAYUSH-SPIDEY-SHARMA/AAYUSH-SPIDEY-SHARMA/output/streak.svg" alt="Days without tea or coffee" />
+
+</div>
 
 <table>
 <tr>
-<td width="70%" valign="top">
+<td width="72%" valign="top">
 
-When the terminal closes: game jams, Blender rabbit holes, and long-running anime that I am somehow always three seasons behind on. Half my design instincts came from studying how games teach you their rules without a tutorial.
+On **24 September 2025** I put the cup down — no tea, no coffee, not once since.
 
-```cpp
-while (alive) {
-    design();
-    build();
-    playtest();
-    iterate();
-    ship();
-}
-```
+It was never about caffeine. It was a promise I made to myself: the next cup gets poured the day I get what I am working for. Until then the counter keeps climbing, and that is the whole point.
+
+<sub>The number above updates itself every day.</sub>
 
 </td>
-<td width="30%" align="center" valign="middle">
-  <img src="assets/straw-hat.png" width="130" /><br/>
+<td width="28%" align="center" valign="middle">
+  <img src="assets/straw-hat.png" width="120" /><br/>
   <sub><i>still sailing</i></sub>
 </td>
 </tr>
@@ -254,8 +268,12 @@ while (alive) {
 
 <div align="center">
 
-Open to collaborations, research discussions, hackathon teams, and open source work.
+Open to collaborations, hackathon teams, and open source work.
 
+<a href="https://aayushsharma.me">
+  <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=googlechrome&logoColor=E5202B" />
+</a>
+<!-- Replace YOUR_HANDLE / YOUR_EMAIL / YOUR_ID below with your real handles, then delete this comment -->
 <a href="https://linkedin.com/in/YOUR_HANDLE">
   <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=E5202B" />
 </a>
@@ -264,9 +282,6 @@ Open to collaborations, research discussions, hackathon teams, and open source w
 </a>
 <a href="https://x.com/YOUR_HANDLE">
   <img src="https://img.shields.io/badge/X-0D1117?style=for-the-badge&logo=x&logoColor=E5202B" />
-</a>
-<a href="https://YOUR_PORTFOLIO">
-  <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=googlechrome&logoColor=E5202B" />
 </a>
 <a href="https://discord.com/users/YOUR_ID">
   <img src="https://img.shields.io/badge/Discord-0D1117?style=for-the-badge&logo=discord&logoColor=E5202B" />
