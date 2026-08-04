@@ -19,7 +19,7 @@
 ### 👨‍💻 Aayush Sharma
 <b>aka SPIDEY</b> 🕷️
 
-<table>
+<table width="100%">
 <tr>
   <td align="center" width="46">🎓</td>
   <td><b>AI &amp; ML Student</b><br/><sub>IIIT Lucknow</sub></td>
