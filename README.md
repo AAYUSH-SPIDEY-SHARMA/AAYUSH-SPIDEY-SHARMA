@@ -16,15 +16,27 @@
 <tr>
 <td width="62%" valign="top">
 
-**👨‍💻 Aayush Sharma** — aka **SPIDEY** 🕷️
+### 👨‍💻 Aayush Sharma
+<b>aka SPIDEY</b> 🕷️
 
-**🎓 AI & ML Student** @ IIIT Lucknow
-
-**🏀 National Bronze Medallist** — Basketball (SGFI)
-
-**🎮 Veteran gamer** · 🌸 anime-obsessed · ⚡ still on the court and in the terminal
-
-<br/>
+<table>
+<tr>
+  <td align="center" width="46">🎓</td>
+  <td><b>AI &amp; ML Student</b><br/><sub>IIIT Lucknow</sub></td>
+</tr>
+<tr>
+  <td align="center">🏀</td>
+  <td><b>National Bronze Medallist</b><br/><sub>Basketball — SGFI Nationals</sub></td>
+</tr>
+<tr>
+  <td align="center">🎮</td>
+  <td><b>Veteran gamer</b><br/><sub>A decade deep in the lobbies</sub></td>
+</tr>
+<tr>
+  <td align="center">🌸</td>
+  <td><b>Anime</b><br/><sub>The permanent background process</sub></td>
+</tr>
+</table>
 
 > Two things I never miss: a deadline, and a free throw.
 
@@ -157,7 +169,7 @@ Every October the web gets a little wider.
 
 <div align="center">
 
-<img width="60%" src="https://streak-stats.demolab.com?user=AAYUSH-SPIDEY-SHARMA&hide_border=true&background=0D1117&ring=E5202B&fire=E5202B&currStreakLabel=E5202B&sideNums=C9D1D9&sideLabels=C9D1D9&dates=8B949E&stroke=21262D" />
+<img width="60%" src="https://streak-stats.demolab.com?user=AAYUSH-SPIDEY-SHARMA&hide_border=true&background=0D1117&ring=E5202B&fire=E5202B&currStreakLabel=E5202B&currStreakNum=C9D1D9&sideNums=C9D1D9&sideLabels=C9D1D9&dates=8B949E&stroke=21262D" />
 
 <br/><br/>
 
@@ -189,7 +201,7 @@ Every October the web gets a little wider.
 <td align="center" width="33%">
   <img src="assets/card-03.png" height="230" /><br/>
   <b>THE BALLER</b><br/>
-  <sub>National bronze. Still hungry for the next one.</sub>
+  <sub>National bronze. Hungry for more.</sub>
 </td>
 </tr>
 </table>
