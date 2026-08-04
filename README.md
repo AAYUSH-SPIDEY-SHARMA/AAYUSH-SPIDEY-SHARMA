@@ -173,7 +173,7 @@ Every October the web gets a little wider.
 
 <div align="center">
 
-<img width="60%" src="https://streak-stats.demolab.com?user=AAYUSH-SPIDEY-SHARMA&hide_border=true&background=0D1117&ring=E5202B&fire=E5202B&currStreakLabel=E5202B&currStreakNum=C9D1D9&sideNums=C9D1D9&sideLabels=C9D1D9&dates=8B949E&stroke=21262D" />
+<img width="60%" src="https://streak-stats.demolab.com?user=AAYUSH-SPIDEY-SHARMA&hide_border=true&background=0D1117&ring=E5202B&fire=E5202B&currStreakLabel=E5202B&currStreakNum=C9D1D9&sideNums=C9D1D9&sideLabels=C9D1D9&dates=8B949E&stroke=21262D&border_radius=6" />
 
 <br/><br/>
 
