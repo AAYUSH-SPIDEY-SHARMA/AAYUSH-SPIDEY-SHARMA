@@ -110,7 +110,7 @@ Currently in development.
 
 <!-- Paste the deployed link here: [**Live →**](https://your-link) -->
 
-<sub>🔗 live link coming soon</sub>
+<sub>www.dotcode.online</sub>
 
 </td>
 </tr>
